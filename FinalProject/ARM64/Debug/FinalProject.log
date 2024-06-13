@@ -1,0 +1,7 @@
+﻿  FinalProject.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\azaleas\source\repos\FinalProject\FinalProject\DistributedHashTable.h(333,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\azaleas\source\repos\FinalProject\FinalProject\DistributedHashTable.h(331,5): message : while compiling class template member function 'DistributedHashTable<BTree<std::string,std::string>>::DistributedHashTable(int)'
+C:\Users\azaleas\source\repos\FinalProject\FinalProject\FinalProject.cpp(15,54): message : see the first reference to 'DistributedHashTable<BTree<std::string,std::string>>::DistributedHashTable' in 'main'
+C:\Users\azaleas\source\repos\FinalProject\FinalProject\FinalProject.cpp(15,60): message : see reference to class template instantiation 'DistributedHashTable<BTree<std::string,std::string>>' being compiled
+  FinalProject.vcxproj -> C:\Users\azaleas\source\repos\FinalProject\ARM64\Debug\FinalProject.exe
